@@ -9,7 +9,7 @@ import java.util.Scanner;
  * @author Ibrahim Berkay Ceylan, Student ID: 2023400327
  * @since Date: 01.04.2024
  */
-public class Main {
+public class IbrahimBerkayCeylan {
     // constants for filenames
     private static final String CITY_COORDINATES_FILE = "city_coordinates.txt";
     private static final String CITY_CONNECTIONS_FILE = "city_connections.txt";
