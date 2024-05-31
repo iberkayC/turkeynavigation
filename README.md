@@ -4,7 +4,7 @@ Finds the optimal path between two nodes on a given graph using Dijkstra's Algor
 
 ## Overview
 
-This project is designed as part of the CMPE160 Introduction to Object-Oriented Programming course at Bogazici University. It is a Java application that reads city coordinates and connections from files, draws a map of the cities and roads, and finds the optimal path between two cities using Dijkstra's Algorithm. One file is named `IbrahimBerkayCeylan` because of assignment submission rules.
+This project is designed as part of the CMPE160 Introduction to Object-Oriented Programming course at Bogazici University. It is a Java application that reads city coordinates and connections from files, draws a map of the cities and roads, and finds the optimal path between two cities using Dijkstra's Algorithm. One file is named `IbrahimBerkayCeylan` because of assignment submission rules. More details can be found in the report file.
 
 ## Features
 
